@@ -1,0 +1,10 @@
+{
+  "project": "BALLISTICS_ENGINE",
+  "category": "ARTILLERY_MANUFACTURING",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\ARTILLERY_MANUFACTURING\\BALLISTICS_ENGINE",
+  "status": "failed",
+  "reason": "unreadable BENCH.json: 'metrics'",
+  "files_count": null,
+  "lines_of_code": null,
+  "sha": null
+}
